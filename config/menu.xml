@@ -1,0 +1,9 @@
+<menus>
+   <menu id="topcats" cid="" type="categories" start="0" stop="1" submenu="false" />
+   
+   <menu id="info" cid="" type="mixed">
+      <menu>
+         <item />
+      </menu>
+   </menu>
+</menus>

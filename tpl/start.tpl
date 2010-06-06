@@ -1,5 +1,5 @@
-{layout name="default"}
-   <h1>Willkommen</h1>
+{layout name="default" title="hello" layout="layout123" view="start"}
+   <h1>Test</h1>
    
    
 {/layout}

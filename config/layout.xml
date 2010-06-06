@@ -1,0 +1,7 @@
+<layouts>
+   <layout for="start" is="default" bodyclass="" />
+   <layout for="basket" bodyclass="hallo" />
+   <layout for="test" is="onecol" bodyclass="">
+      <test />
+   </layout>
+</layouts>
